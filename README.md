@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crakdelpol" alt="crakdelpol" /> </p>
 
-- 🔭 I’m currently working on [Tradr](https://trader.mercurius.io)
+- 🔭 I’m currently working on [Tradr](https://mercurius.io)
 
 - 🌱 I’m currently learning **Python**
 
