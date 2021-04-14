@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matteo Pipitone</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crakdelpol" alt="crakdelpol" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-pipitone)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MatteoPipitone1)
+
+<p align="left">Glad to see you here!  <img src="https://komarev.com/ghpvc/?username=crakdelpol" alt="crakdelpol" /> </p>
 
 - 🔭 I’m currently working on [Tradr](https://mercurius.io)
 
