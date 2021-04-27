@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Italy</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-pipitone)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MatteoPipitone1)
+[![Twitter Badge](https://img.shields.io/twitter/url?label=%40PippiM93&style=social&url=https%3A%2F%2Ftwitter.com%2FPippiM93)](https://twitter.com/PippiM93)
 
 <p align="left">Glad to see you here!  <img src="https://komarev.com/ghpvc/?username=crakdelpol" alt="crakdelpol" /> </p>
 
