@@ -23,11 +23,6 @@
 </p>
 
 
-<a href="https://github.com/KiraPC/KiraPC">
-  
-</a>
-
-
 <p align="center">
 <a href="https://twitter.com/@matteopipitone1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@matteopipitone1" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/matteo-pipitone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matteo-pipitone" height="30" width="30" /></a>
