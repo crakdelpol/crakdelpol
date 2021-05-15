@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Tradr](https://mercurius.io)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning 
 
 - 👨‍💻 All of my projects are available at [https://github.com/crakdelpol](https://github.com/crakdelpol)
 
