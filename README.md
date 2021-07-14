@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning python
 
-- 👨‍💻 All of my projects are available at [https://github.com/crakdelpol](https://github.com/crakdelpol)
+- 👨‍💻 All of my projects are available at [https://github.com/crakdelpol](https://github.com/crakdelpol?tab=repositories)
 
 - 💬 Ask me about **Java**
 
