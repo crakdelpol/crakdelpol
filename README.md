@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pippim93" target="blank"><img src="https://img.shields.io/twitter/follow/pippim93?logo=twitter&style=for-the-badge" alt="pippim93" /></a> </p>
 
-- 🔭 I’m currently working on [tradr](https://mercurius.io/en/trader-app)
+- 🔭 I’m currently working on [Sphere](https://www.mdotm.eu/platform)
 
 - 🌱 I’m currently learning **Python**
 
