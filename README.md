@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crakdelpol&label=Profile%20views&color=0e75b6&style=flat" alt="crakdelpol" />
-  <a href="https://twitter.com/pippim93" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pippim93?logo=twitter&style=for-the-badge" alt="pippim93" />
-  </a>
 </p>
 
 ---
