@@ -11,7 +11,7 @@
 - 🎯 Currently working on [Sphere](https://www.mdotm.eu/platform) with a focus on optimizing backend processes.
 - 🌱 Expanding my skills in **Python** while continuously improving my Java expertise.
 - 📂 Check out my work: [My GitHub Repositories](https://github.com/crakdelpol?tab=repositories)
-- 📝 I love discussing **Java, Spring, and databases (MySQL, PostgreSQL)**.
+- 📝 I love discussing **Java, Spring, and databases (MySQL, PostgreSQL, Mongodb)**.
 
 **📫 How to Reach Me:**
 - Let's connect! Email me at **matteo.pipitone93@gmail.com**
