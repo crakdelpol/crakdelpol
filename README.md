@@ -12,7 +12,7 @@
 - 🌱 Expanding my skills in **Python** while continuously improving my Java expertise.
 - 📂 Check out my work: [My GitHub Repositories](https://github.com/crakdelpol?tab=repositories)
 - 📝 I love discussing **OOP, Domain Driven Design, software architecture**.
-- I'm involved to solve this problems (signalHer)[https://github.com/crakdelpol/SignalHer], (PeerConnect)[https://github.com/crakdelpol/PeerConnect], (FreeAnimal)[https://github.com/crakdelpol/FreeAnimals]
+- I'm involved to solve this problems [signalHer](https://github.com/crakdelpol/SignalHer), [PeerConnect](https://github.com/crakdelpol/PeerConnect), [FreeAnimal](https://github.com/crakdelpol/FreeAnimals)
 
 **📫 How to Reach Me:**
 - Let's connect! Email me at **matteo.pipitone93@gmail.com**
