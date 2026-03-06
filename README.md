@@ -8,7 +8,7 @@
 ---
 
 **👨‍💻 About Me:**
-- 🎯 Currently I'm involved to solve this problems [signalHer](https://github.com/crakdelpol/SignalHer), [PeerConnect](https://github.com/crakdelpol/PeerConnect), [FreeAnimal](https://github.com/crakdelpol/FreeAnimals)
+- 🎯 Currently I'm involved to solve this problems [BottegAI](https://github.com/crakdelpol/BottegAI), [signalHer](https://github.com/crakdelpol/SignalHer), [PeerConnect](https://github.com/crakdelpol/PeerConnect), [FreeAnimal](https://github.com/crakdelpol/FreeAnimals)
 - 🌱 Expanding my skills in **Python** while continuously improving my Java expertise.
 - 📂 Check out my work: [My GitHub Repositories](https://github.com/crakdelpol?tab=repositories)
 - 📝 I love discussing **OOP, Domain Driven Design, software architecture**.
