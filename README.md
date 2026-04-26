@@ -10,15 +10,6 @@
 
 ---
 
-## About
-
-| | |
-|---|---|
-| **Approccio** | XP · Pair Programming · TDD |
-| **Design del codice** | Simple Design · Clean Code · SOLID |
-
-
----
 
 ## Esperienza recente
 
