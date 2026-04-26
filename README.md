@@ -13,7 +13,7 @@
 
 ## Esperienza recente
 
-**QMates** 
+[**QMates** ](https://github.com/qmates-tech)
 
 Esperienza pratica in un ambiente fortemente orientato alla qualità del codice. Approfondimento di Simple Design, Clean Code e pratiche XP in contesti reali con team strutturati.
 
