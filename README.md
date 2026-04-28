@@ -1,5 +1,5 @@
 <h1 align="center">Matteo Pipitone</h1>
-<h3 align="center">🟢 Backend Developer · Italy · Building things that matter</h3>
+<h3 align="center">Backend Developer · Italy · Building things that matter</h3>
 
 <br/>
 
