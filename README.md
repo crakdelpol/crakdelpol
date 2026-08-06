@@ -51,8 +51,8 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crakdelpol&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crakdelpol&layout=compact&hide_border=true&theme=default" height="160" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" height="160" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" height="160" />
 </p>
 
 <p align="center">
