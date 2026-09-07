@@ -29,7 +29,7 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 | [**GiPiGest**](https://gipigest.com) 🟢 | Gestionale per strutture sportive — prenotazioni, abbonamenti e molto altro |
 | [**BottegAI**](https://bottegai.app/) 🟢 | Assistente vocale per artigiani — racconta la tua storia, al resto pensiamo noi |
 | [**SignalHer**](https://github.com/crakdelpol/SignalHer) | Segnali e comunicazione per le donne |
-| [**PeerConnect**](https://github.com/crakdelpol/PeerConnect) | Connessioni tra pari e community |
+| [**PeerConnect**](https://github.com/crakdelpol/PeerConnect) | Connessioni tra persone con gli stessi problemi |
 | [**FreeAnimals**](https://github.com/crakdelpol/FreeAnimals) | Piattaforma per animali liberi e adozioni |
 
 ---
