@@ -25,12 +25,18 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 
 | Progetto | Descrizione |
 |---|---|
-| [**Argus**](https://github.com/crakdelpol/Argus) 🚧 | Monitoraggio continuo degli eventi di un luogo, raccolti da fonti diverse — nasce da un'idea in [ideas](https://github.com/crakdelpol/ideas) |
+| [**Argus**](https://github.com/crakdelpol/Argus) 🚧 | Monitoraggio continuo degli eventi di un luogo, raccolti da fonti diverse  |
 | [**GiPiGest**](https://gipigest.com) 🟢 | Gestionale per strutture sportive — prenotazioni, abbonamenti e molto altro |
-| [**BottegAI**](https://bottegai.lovable.app) 🟢 | Assistente vocale per artigiani — racconta la tua storia, al resto pensiamo noi |
+| [**BottegAI**](https://bottegai.app/) 🟢 | Assistente vocale per artigiani — racconta la tua storia, al resto pensiamo noi |
 | [**SignalHer**](https://github.com/crakdelpol/SignalHer) | Segnali e comunicazione per le donne |
 | [**PeerConnect**](https://github.com/crakdelpol/PeerConnect) | Connessioni tra pari e community |
 | [**FreeAnimals**](https://github.com/crakdelpol/FreeAnimals) | Piattaforma per animali liberi e adozioni |
+
+---
+
+## Qui un po' i miei pensieri
+
+[ideas](https://github.com/crakdelpol/ideas)
 
 ---
 
