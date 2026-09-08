@@ -36,7 +36,10 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 
 ## Qui un po' i miei pensieri
 
-[ideas](https://github.com/crakdelpol/ideas)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Tutti i pensieri su [matteopipitone.it/blog](https://www.matteopipitone.it/blog) &nbsp;·&nbsp; [ideas](https://github.com/crakdelpol/ideas)
 
 ---
 
@@ -76,6 +79,7 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 
 ## Contatti
 
+🌐 [matteopipitone.it](https://www.matteopipitone.it) &nbsp;·&nbsp;
 📧 [matteo.pipitone93@gmail.com](mailto:matteo.pipitone93@gmail.com) &nbsp;·&nbsp;
 💼 [LinkedIn](https://linkedin.com/in/matteo-pipitone) &nbsp;·&nbsp;
 🐦 [Twitter](https://twitter.com/pippim93)
