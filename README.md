@@ -37,8 +37,8 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 ## Qui un po' i miei pensieri
 
 <!-- BLOG-POST-LIST:START -->
+- [Ho scelto da chi farmi guardare](https://www.matteopipitone.it/blog/ho-scelto-da-chi-farmi-guardare/)
 - [Ti sei affezionato allo sforzo](https://www.matteopipitone.it/blog/ti-sei-affezionato-allo-sforzo/)
-- [C&#39;è sempre un modo](https://www.matteopipitone.it/blog/ce-sempre-un-modo/)
 <!-- BLOG-POST-LIST:END -->
 
 Tutti i pensieri su [matteopipitone.it/blog](https://www.matteopipitone.it/blog) &nbsp;·&nbsp; [ideas](https://github.com/crakdelpol/ideas)
