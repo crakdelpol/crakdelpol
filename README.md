@@ -37,8 +37,8 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 ## Qui un po' i miei pensieri
 
 <!-- BLOG-POST-LIST:START -->
+- [Per un viaggio non si rifanno le prese di casa](https://www.matteopipitone.it/blog/per-un-viaggio-non-si-rifanno-le-prese-di-casa/)
 - [Al meccanico non interessa di che colore è l&#39;auto](https://www.matteopipitone.it/blog/al-meccanico-non-interessa-di-che-colore-e-lauto/)
-- [Il piatto esce lo stesso](https://www.matteopipitone.it/blog/il-piatto-esce-lo-stesso/)
 <!-- BLOG-POST-LIST:END -->
 
 Tutti i pensieri su [matteopipitone.it/blog](https://www.matteopipitone.it/blog) &nbsp;·&nbsp; [ideas](https://github.com/crakdelpol/ideas)
