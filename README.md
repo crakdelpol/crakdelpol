@@ -37,8 +37,8 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 ## Qui un po' i miei pensieri
 
 <!-- BLOG-POST-LIST:START -->
+- [La storia di un refactor: il buttafuori e la catena dei controlli](https://www.matteopipitone.it/blog/il-buttafuori-e-la-catena-dei-controlli/)
 - [Se non trovo una similitudine, non ho ancora capito](https://www.matteopipitone.it/blog/una-similitudine-per-capire/)
-- [Per un viaggio non si rifanno le prese di casa](https://www.matteopipitone.it/blog/per-un-viaggio-non-si-rifanno-le-prese-di-casa/)
 <!-- BLOG-POST-LIST:END -->
 
 Tutti i pensieri su [matteopipitone.it/blog](https://www.matteopipitone.it/blog) &nbsp;·&nbsp; [ideas](https://github.com/crakdelpol/ideas)
