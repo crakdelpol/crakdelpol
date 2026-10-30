@@ -37,8 +37,8 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 ## Qui un po' i miei pensieri
 
 <!-- BLOG-POST-LIST:START -->
+- [Considerazioni personali su Instagram a fine 2026](https://www.matteopipitone.it/blog/considerazioni-su-instagram-2026/)
 - [La storia di un refactor: il buttafuori e la catena dei controlli](https://www.matteopipitone.it/blog/il-buttafuori-e-la-catena-dei-controlli/)
-- [Se non trovo una similitudine, non ho ancora capito](https://www.matteopipitone.it/blog/una-similitudine-per-capire/)
 <!-- BLOG-POST-LIST:END -->
 
 Tutti i pensieri su [matteopipitone.it/blog](https://www.matteopipitone.it/blog) &nbsp;·&nbsp; [ideas](https://github.com/crakdelpol/ideas)
