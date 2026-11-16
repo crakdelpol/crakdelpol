@@ -37,8 +37,8 @@ Esperienza pratica in un ambiente fortemente orientato alla qualità del codice.
 ## Qui un po' i miei pensieri
 
 <!-- BLOG-POST-LIST:START -->
+- [L&#39;unica variabile sei tu](https://www.matteopipitone.it/blog/lunica-variabile-sei-tu/)
 - [L&#39;altro estremo della Primitive Obsession](https://www.matteopipitone.it/blog/laltro-estremo-della-primitive-obsession/)
-- [Il test impossibile](https://www.matteopipitone.it/blog/il-test-impossibile/)
 <!-- BLOG-POST-LIST:END -->
 
 Tutti i pensieri su [matteopipitone.it/blog](https://www.matteopipitone.it/blog) &nbsp;·&nbsp; [ideas](https://github.com/crakdelpol/ideas)
